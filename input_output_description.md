@@ -55,5 +55,5 @@
 
 - Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
     - PASSENGER_ID: Passenger ID
-    - SCORE:  Propensity Scofe indicating the likelihood that the customer will take advantage of discounted upgrades to travel in premium cabins rather than purchasing premium cabins at full fare.
--Reference file: sample.zip.out
+    - SCORE:  Propensity Scofe indicating the likelihood that the customer will take advantage of discounted upgrades to travel in premium cabins rather than purchasing premium cabins at full fare.  
+- Reference file: sample.zip.out
