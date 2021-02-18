@@ -1,6 +1,6 @@
 # Input/Output Description
 
-- Input: A zip file with the following comma separated csv files. Reference file: sample.zip. 
+- Input: A zip file with the following comma separated csv files (3 Required 1 optional). Reference file: sample.zip. 
 
 - **_passenger_info.csv_** (*REQUIRED*): 
     
