@@ -1,6 +1,6 @@
 # Input/Output Description
 
-- Input: The client should provide the following formatted data in CSV files (3 required, 1 optional).Below are the details for each CSV file. 
+- Input: A zip file with the following comma separated csv files. Reference file: sample.zip. 
 
 - **_passenger_info.csv_** (*REQUIRED*): 
     
